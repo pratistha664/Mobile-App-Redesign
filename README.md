@@ -2,6 +2,8 @@
 Mobile-App-Redesign
 # Company
 CODTECH IT SOLUTIONS PVT.LTD 
+# Name 
+Pratistha Biswal
 # Intern ID 
 CT04DN1147 
 # Domain 
